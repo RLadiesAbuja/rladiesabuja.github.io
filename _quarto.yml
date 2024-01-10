@@ -1,0 +1,54 @@
+project:
+  type: website
+freeze: auto
+website:
+  title: "R Ladies Abuja"
+  description: "Local community of R Ladies Global in the Federal Capital City, Abuja"
+  favicon: /media/RLadiesAbuja.svg
+  image: /media/RLadiesAbuja_bg.png
+  site-url: rladiesabuja.github.io
+  repo-url: https://github.com/RLadiesAbuja/rladiesabuja.github.io
+  open-graph:
+    title: "R Ladies Abuja"
+    description: "Local community of R Ladies Global in the Federal Capital City, Abuja"
+    image: /media/RLadiesAbuja_bg.png
+  twitter-card:
+    title: "R Ladies Abuja"
+    description: "Local community of R Ladies Global in the Federal Capital City, Abuja"
+    image: /media/RLadiesAbuja.png
+    site: "@RLadiesAbuja"
+    creator: "@qbwoa"
+    card-style: summary_large_image
+  page-navigation: true
+  page-footer:
+    left: |
+      Powered by [Quarto](https://quarto.org).
+    center: |
+      &copy; 2020 - 2024 R Ladies Abuja (R Ladies Global).  
+      License: [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+    right: |
+      Supported by [<img src="/media/rladies-logo.png" alt="R Ladies Logo" style="height:1.5em;"/>](https://rladies.org/).
+    border: true
+  navbar:
+    search: true
+    logo: media/RLadiesAbuja.svg
+    right:
+      - text: Blogs
+        href: blog.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rladies-abuja/
+      - icon: github
+        href: https://github.com/RLadiesAbuja/
+      - icon: twitter
+        href: https://twitter.com/RLadiesAbuja
+      - icon: youtube
+        href: https://www.youtube.com/@r-ladiesabuja
+      - icon: rss
+        href: blog.xml
+format:
+  html:
+    theme: theme.scss
+    css: styles.css
+
+editor: visual
+

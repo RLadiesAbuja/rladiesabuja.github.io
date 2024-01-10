@@ -1,0 +1,15 @@
+---
+listing:
+  contents: posts/**/*.qmd
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 5
+  fields: [title, subtitle, author, image, date, categories]
+page-layout: full
+title-block-banner: false
+comments: false
+---

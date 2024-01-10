@@ -1,0 +1,21 @@
+---
+title: "About"
+image: media/RLadiesAbuja.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/RLadiesAbuja
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rladies-abuja/
+    - icon: github
+      text: Github
+      href: https://github.com/RLadiesAbuja/
+    - icon: youtube
+      text: youtube
+      href: https://www.youtube.com/@r-ladiesabuja
+---
+
+About this blog
