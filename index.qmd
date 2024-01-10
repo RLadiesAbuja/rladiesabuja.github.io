@@ -1,22 +1,8 @@
 ---
-title: "About"
-image: media/RLadiesAbuja.png
-about:
-  template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/RLadiesAbuja
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/rladies-abuja/
-    - icon: github
-      text: Github
-      href: https://github.com/RLadiesAbuja/
-    - icon: youtube
-      text: youtube
-      href: https://www.youtube.com/@r-ladiesabuja
+page-layout: full
 ---
+
+![](media/rladiesBanner.png)
 
 ::: {#rladies_about}
 This is a local chapter of [R-Ladies Global](https://www.rladies.org), an organisation that promotes gender diversity in the R community worldwide. We meetup in person or virtually to learn about the R programming language, algorithms and advanced tools.
@@ -25,4 +11,3 @@ R-Ladies welcomes members of all R proficiency levels, whether you're a new or a
 
 Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Supporting minority identity access to STEM skills & careers, the Free Software Movement, and contributing to the global R community!
 :::
-
