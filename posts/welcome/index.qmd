@@ -5,7 +5,7 @@ date: "2024-01-10"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+You are Welcome! It's a brand new year, 2024. Thank you for your support all these years.
 
 ![](thumbnail.jpg)
 
