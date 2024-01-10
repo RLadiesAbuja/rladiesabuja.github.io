@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 freeze: auto
 website:
   title: "R Ladies Abuja"
